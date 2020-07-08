@@ -1,4 +1,5 @@
 # Exploring Possible Predictors of Heart Diseases (Part 2)
+![Exploring Possible Predictors of Heart Diseases using logistic regression and linear svm](Header.png)
 
 This is an exercise in our Machine Learning class to build ML models using Logistic Regression and Support Vector Machines.
 
@@ -12,3 +13,4 @@ It was interesting to see how the two other models would perform compared to KNN
 ## Members
 - [@daryllft19](https://github.com/daryllft19/)
 - [@nikakaren](https://github.com/nikakaren)
+- [@dkrgpisay](https://github.com/dkrgpisay)
